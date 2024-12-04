@@ -1,0 +1,148 @@
+<mxfile host="Electron" modified="2024-12-02T07:30:28.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="6bxck4yiGtaIyti-fjYf" version="24.6.4" type="device">
+  <diagram name="Страница — 1" id="QfHnY0Xzxlwoh4gvzS0H">
+    <mxGraphModel dx="1500" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AkkTztcuMRMaACmU3cwN-1" value="&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;Google Drive&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="475" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="525" y="250" width="20" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="AkkTztcuMRMaACmU3cwN-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="250" as="sourcePoint" />
+            <mxPoint x="534.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535" y="710" as="sourcePoint" />
+            <mxPoint x="534.63" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="AkkTztcuMRMaACmU3cwN-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799.71" y="190" as="sourcePoint" />
+            <mxPoint x="799.71" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="791.25" y="250" width="17.5" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;2: Передача документов&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0204" y="19" width="80" relative="1" as="geometry">
+            <mxPoint x="545" y="369.29" as="sourcePoint" />
+            <mxPoint x="790" y="369.29" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-8" value="&lt;font style=&quot;font-size: 23px;&quot; face=&quot;Times New Roman&quot;&gt;Администратор&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="100" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Страница сайта&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="938.7500000000001" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="990" y="230" width="17.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;3: Обновление&lt;br&gt;информации&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0588" y="9" width="80" relative="1" as="geometry">
+            <mxPoint x="808.75" y="400" as="sourcePoint" />
+            <mxPoint x="990" y="400" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="1210" y="300" width="18.75" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1219" y="710" as="sourcePoint" />
+            <mxPoint x="1219.05" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799" y="710" as="sourcePoint" />
+            <mxPoint x="800" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="998" y="710" as="sourcePoint" />
+            <mxPoint x="998.16" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="240" y="290" width="20" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249.57" y="290" as="sourcePoint" />
+            <mxPoint x="249.57" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249.92000000000002" y="710" as="sourcePoint" />
+            <mxPoint x="249.63" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-21" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;1: Загрузка документов&lt;br&gt;&amp;nbsp;в Google Drive&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="260" y="359.47" as="sourcePoint" />
+            <mxPoint x="520" y="359" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-22" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&quot;Все поля должны быть&lt;br&gt;&amp;nbsp;заполненены&quot;&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry y="30" width="160" relative="1" as="geometry">
+            <mxPoint x="520" y="390" as="sourcePoint" />
+            <mxPoint x="260" y="390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="AkkTztcuMRMaACmU3cwN-6" target="AkkTztcuMRMaACmU3cwN-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="250" as="sourcePoint" />
+            <mxPoint x="799.71" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-24" value="&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Times New Roman&quot;&gt;Админ панель&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-26" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;4: Получение&lt;br&gt;&amp;nbsp;информации&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AkkTztcuMRMaACmU3cwN-11" target="AkkTztcuMRMaACmU3cwN-13" edge="1">
+          <mxGeometry x="-0.0588" y="9" width="80" relative="1" as="geometry">
+            <mxPoint x="1007.5" y="390" as="sourcePoint" />
+            <mxPoint x="1160" y="390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="AkkTztcuMRMaACmU3cwN-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="998.61" y="225" as="sourcePoint" />
+            <mxPoint x="998.61" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-30" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 23px;&quot;&gt;Гость&lt;/span&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="1184.3700000000001" y="110" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Подтверждение публикации&lt;/span&gt;&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" parent="1" target="AkkTztcuMRMaACmU3cwN-18" edge="1">
+          <mxGeometry y="30" width="160" relative="1" as="geometry">
+            <mxPoint x="790" y="470" as="sourcePoint" />
+            <mxPoint x="545" y="470" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AkkTztcuMRMaACmU3cwN-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1219.04" y="300" as="sourcePoint" />
+            <mxPoint x="1219.04" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
